@@ -1,0 +1,1697 @@
+[
+  {
+    "WordId": "188d90b0-d068-4d14-a522-fdea0f4916c8",
+    "Word": "Holocaust",
+    "Translation": "שואה",
+    "ExampleUsage": "The Holocaust was a tragic event in Jewish history during World War II.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T13:29:09.115Z"
+  },
+  {
+    "WordId": "5db8ed27-628c-433d-80a6-149c2c16c50d",
+    "Word": "Rebirth",
+    "Translation": "תְּחִיה",
+    "ExampleUsage": "The community experienced a rebirth of traditions and hope after a challenging period.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T13:29:09.115Z"
+  },
+  {
+    "WordId": "3581342c-9b61-4743-8875-ac9a619eaa60",
+    "Word": "Remembrance",
+    "Translation": "זיכרון",
+    "ExampleUsage": "Each year, the community gathers for a day of remembrance to honor those lost in the Holocaust.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T13:29:09.115Z"
+  },
+  {
+    "WordId": "ee7a9c86-8c38-42c9-9be3-e12cbad70d76",
+    "Word": "Temple",
+    "Translation": "מקדש",
+    "ExampleUsage": "The Temple in Jerusalem was a central place of worship in ancient Israel, symbolizing God's presence among the people.",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T13:34:12.938Z"
+  },
+  {
+    "WordId": "cfbf54b0-8caf-4e8e-bb07-50c5f9eb25a1",
+    "Word": "Genocide",
+    "Translation": "שואה",
+    "ExampleUsage": "The Holocaust was a horrific genocide that targeted the Jewish population during World War II.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "ec9c0da6-fc89-4f53-aeb6-0807bde1cc4f",
+    "Word": "Survivor",
+    "Translation": "ניצול",
+    "ExampleUsage": "The survivor of the concentration camp shared their story of resilience and hope with the world.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "afb5aeb5-7ae9-4b8d-a901-43edee85b6b3",
+    "Word": "Resilience",
+    "Translation": "התמודדות",
+    "ExampleUsage": "Despite facing unimaginable hardships, the Jewish community showed remarkable resilience in rebuilding after the Holocaust.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "88f80709-9579-4170-9d31-5c83199d0f51",
+    "Word": "Heritage",
+    "Translation": "מורשת",
+    "ExampleUsage": "Preserving cultural heritage is essential for future generations to learn about the history and traditions of a community.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "b00caef4-3a12-4527-ac5b-3f8dd2279868",
+    "Word": "Memorial",
+    "Translation": "זיכרון",
+    "ExampleUsage": "The memorial service honored the victims of the Holocaust and served as a reminder to never forget.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "3cadb21f-549c-4fad-a022-f96ae7fc3075",
+    "Word": "Recovery",
+    "Translation": "שיקום",
+    "ExampleUsage": "The process of post-traumatic recovery can be long and challenging for individuals who have experienced significant trauma.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "22aedd6c-e9cc-47b4-839c-f49ab2b044eb",
+    "Word": "Renewal",
+    "Translation": "חידוש",
+    "ExampleUsage": "The city underwent a period of renewal, symbolizing hope and a fresh start after years of struggle.",
+    "TopicName": "holocaust-and-revival",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T17:28:08.661Z"
+  },
+  {
+    "WordId": "0f0108d3-114f-4509-942a-794e696b54dc",
+    "Word": "Exodus",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "יציאת מצרים",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Exodus is a significant event in Jewish history, depicting the liberation of the Israelites from slavery in Egypt.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "b6a6396f-b37e-42e9-88f6-acd747a63bd1",
+    "Word": "Temple Mount",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "הר הבית",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Temple Mount in Jerusalem is a significant religious site for Jews, Muslims, and Christians, with historical connections to the Jewish temples.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "18b3d316-2900-412c-9fc0-a926ab6f116d",
+    "Word": "Aliyah",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "עלייה",
+    "PartOfSpeech": "",
+    "ExampleUsage": "Aliyah refers to the immigration of Jews to Israel, often seen as a return to their ancestral homeland.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "f3d5cb52-d7f1-4e20-a9f0-2344b9bfe4ba",
+    "Word": "Zionism",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "ציונות",
+    "PartOfSpeech": "",
+    "ExampleUsage": "Zionism is a movement advocating for the establishment of a Jewish homeland in the historic land of Israel.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "3a89dd37-d2ac-4ce3-aec3-232346ab0bdf",
+    "Word": "Diaspora",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "גלות",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Jewish diaspora refers to the dispersion of Jews beyond Israel, particularly after the destruction of the Second Temple.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "1dcae8c9-2039-4688-9940-4ff2c041fba8",
+    "Word": "Kibbutz",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "קיבוץ",
+    "PartOfSpeech": "",
+    "ExampleUsage": "A kibbutz is a collective community in Israel where members live and work together, reflecting the values of cooperation and equality.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "a83fde2e-1132-4cb0-a0a2-901379558db5",
+    "Word": "Holocaust",
+    "TopicName": "history-and-heritage",
+    "Level": "1",
+    "Translation": "שואה",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Holocaust was a tragic period during World War II when six million Jews were systematically exterminated by the Nazis.",
+    "createdAt": "2025-04-30T14:24:25.000Z",
+    "updatedAt": "2025-04-30T14:24:25.000Z",
+    "CreatedAt": "2025-04-30T18:25:04.008Z"
+  },
+  {
+    "WordId": "5fcf68a2-8aff-46a5-b710-5303aa60f3d9",
+    "Word": "Olim",
+    "Translation": "עולים",
+    "ExampleUsage": "Many olim come to Israel seeking a better future and to contribute to the diverse society of the country.",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:36:02.169Z"
+  },
+  {
+    "WordId": "990b9606-8663-4ecb-b95f-0b0d53684d4d",
+    "Word": "{",
+    "Translation": "\"word\": \"Iron\",",
+    "ExampleUsage": "\"translation\": \"ברזל\",     \"\": \"The sword was made of iron.\"   }",
+    "TopicName": "iron-swords-war",
+    "Level": "2",
+    "CreatedAt": "2025-04-30T18:57:01.151Z"
+  },
+  {
+    "WordId": "f09295eb-5fe4-4c5f-9b84-e5bfdea3541a",
+    "Word": "{",
+    "Translation": "\"word\": \"Innovation\",",
+    "ExampleUsage": "\"translation\": \"חידוש\",     \"\": \"The company focuses on innovation to stay ahead.\"   }",
+    "TopicName": "innovation-and-technology",
+    "Level": "2",
+    "CreatedAt": "2025-04-30T18:57:27.513Z"
+  },
+  {
+    "WordId": "d64d73c3-a561-4cf9-ac47-ff1ab6633626",
+    "Word": "Incubator",
+    "Translation": "מְבַשֵּׁל",
+    "ExampleUsage": "The startup found support and guidance in the local incubator.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "7ba1d20f-7f61-44d4-94d3-66824b894043",
+    "Word": "Disruptive",
+    "Translation": "מַפְרִיעַ",
+    "ExampleUsage": "The new technology had a disruptive impact on the industry.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "8ec43771-1133-4b32-ad3c-03cdd9969bf8",
+    "Word": "Algorithm",
+    "Translation": "אַלגוֹרִיתְמָה",
+    "ExampleUsage": "The AI system uses complex algorithms to predict market trends.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "58c0d928-0f4f-4a3f-b673-5bf2ea988b3f",
+    "Word": "Encryption",
+    "Translation": "הַצְפָּנָה",
+    "ExampleUsage": "Cybersecurity relies on strong encryption to protect sensitive data.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "1bc29ec9-fd4c-4e21-925c-3dd8b5347a68",
+    "Word": "Sustainability",
+    "Translation": "קְיוֻמִיוּת",
+    "ExampleUsage": "Green tech aims to promote environmental sustainability.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "8ae25345-238a-44f7-b30a-c5c98e1a7233",
+    "Word": "Prototype",
+    "Translation": "דְמוּי מוּצָא",
+    "ExampleUsage": "The team developed a prototype of their innovative product.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "26cba9b0-1cbd-4772-9caa-42d8c9a99233",
+    "Word": "Automation",
+    "Translation": "אוֹטוֹמַצִיָּה",
+    "ExampleUsage": "Automation in manufacturing processes has increased efficiency.",
+    "TopicName": "innovation-and-technology",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:57:52.699Z"
+  },
+  {
+    "WordId": "453212ae-3beb-4e48-9c60-76b71a0f2426",
+    "Word": "```json\n[\n    {\n        \"word\"",
+    "Translation": "\"Operation Protective Edge\",\n        \"translation\": \"מבצע צוק איתן\",\n        \"example\": \"Operation Protective Edge aimed to stop rocket attacks from Gaza into Israeli territory.\"\n    },\n    {\n        \"word\": \"Intifada\",\n        \"translation\": \"אינתיפאדה\",\n        \"example\": \"The Palestinian Intifada was a series of uprisings against Israeli occupation in the late 20th century.\"\n    },\n    {\n        \"word\": \"UN Resolution\",\n        \"translation\": \"החלטת האו\"ם\",\n        \"example\": \"The UN Resolution called for an immediate ceasefire between Israel and Gaza.\"\n    },\n    {\n        \"word\": \"Humanitarian Aid\",\n        \"translation\": \"עזרה אנושית\",\n        \"example\": \"The Red Cross provided humanitarian aid to civilians impacted by the conflict in Gaza.\"\n    },\n    {\n        \"word\": \"Ceasefire\",\n        \"translation\": \"הפסקת אש\",\n        \"example\": \"Both sides agreed to a ceasefire to halt the violence in Gaza.\"\n    },\n    {\n        \"word\": \"Diplomatic Efforts\",\n        \"translation\": \"מאמצי דיפלומטיה\",\n        \"example\": \"Various countries engaged in diplomatic efforts to mediate peace talks between Israel and Hamas.\"\n    },\n    {\n        \"word\": \"Geopolitical Tensions\",\n        \"translation\": \"מתחים גיאופוליטיים\",\n        \"example\": \"The Gaza war heightened geopolitical tensions in the Middle East region.\"\n    }\n]\n```",
+    "ExampleUsage": "",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:58:01.091Z"
+  },
+  {
+    "WordId": "f0f7fe6f-b8b3-4804-9e93-6daf8575b247",
+    "Word": "ceasefire",
+    "Translation": "הפסקת אש",
+    "ExampleUsage": "The two sides agreed to a ceasefire after weeks of intense fighting.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.137Z"
+  },
+  {
+    "WordId": "88c94cae-48f4-493d-b8be-bea33e90fc22",
+    "Word": "blockade",
+    "Translation": "חסימה",
+    "ExampleUsage": "The blockade of Gaza has severely restricted the flow of goods and people in and out of the region.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "a19380be-c316-4fcb-a2d9-b804633ff659",
+    "Word": "diplomacy",
+    "Translation": "דיפלומטיה",
+    "ExampleUsage": "International diplomacy plays a crucial role in resolving conflicts between nations.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "7914d1e0-ffc5-4327-a992-62321313bbbf",
+    "Word": "displacement",
+    "Translation": "העתקה",
+    "ExampleUsage": "The conflict led to the displacement of thousands of civilians who had to flee their homes.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "69bb2b91-c4c1-4d99-802d-25750a9ea4e7",
+    "Word": "occupation",
+    "Translation": "כיבוש",
+    "ExampleUsage": "The Israeli occupation of Palestinian territories is a major point of contention in the conflict.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "1ce99185-94ac-4498-b80e-124725f9fcf7",
+    "Word": "resolution",
+    "Translation": "החלטה",
+    "ExampleUsage": "The United Nations passed a resolution calling for an immediate end to the hostilities.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "2bc2cf40-21d2-4432-a38a-1735d912fe5c",
+    "Word": "evacuation",
+    "Translation": "פינוי",
+    "ExampleUsage": "Emergency evacuation plans were put in place to ensure the safety of civilians during the conflict.",
+    "TopicName": "iron-swords-war",
+    "Level": "1",
+    "CreatedAt": "2025-04-30T18:59:25.138Z"
+  },
+  {
+    "WordId": "f3837841-f2b3-483b-add2-ec5b65517fd5",
+    "Word": "Nutrition",
+    "Translation": "תְּזוֹנָה",
+    "ExampleUsage": "Good nutrition is essential for a healthy lifestyle.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "274295f4-d132-4d77-969e-83e89c8dd432",
+    "Word": "Exercise",
+    "Translation": "תַּרְגִיל",
+    "ExampleUsage": "Regular exercise can improve both physical and mental health.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "6c215d47-da15-4342-831c-62eca2d5bf63",
+    "Word": "Hygiene",
+    "Translation": "הִיגִייֶנָה",
+    "ExampleUsage": "Maintaining good hygiene helps prevent illness and infections.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "d60524ea-9efa-41d5-b6be-b8ed724dbb71",
+    "Word": "Stress",
+    "Translation": "לחץ",
+    "ExampleUsage": "Too much stress can have negative effects on your health.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "60251e12-6cf0-4271-a459-ef9830ff823a",
+    "Word": "Sleep",
+    "Translation": "שֵׁנָה",
+    "ExampleUsage": "Adequate sleep is crucial for overall well-being and health.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "a603eab2-a0ff-46d2-a5bc-ab6af13946b3",
+    "Word": "Immune system",
+    "Translation": "מערכת חיסון",
+    "ExampleUsage": "A strong immune system helps the body fight off infections.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "2efb1fab-6a17-4234-8250-d2a917b08121",
+    "Word": "Medication",
+    "Translation": "תרופה",
+    "ExampleUsage": "Always follow your doctor's instructions when taking medication.",
+    "TopicName": "health",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T18:36:57.836Z"
+  },
+  {
+    "WordId": "13699dac-6aba-471d-af77-4d6ea07a4450",
+    "Word": "Intifada",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "אינתיפאדה",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The First Intifada was a significant uprising by Palestinians against Israeli occupation in the late 1980s.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T15:36:03.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "9b2ebab4-e7f3-453c-b7ef-00689cb5b6c6",
+    "Word": "Bedouin",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "בדואים",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Bedouin tribes have a long history in the desert regions of Israel and have maintained their traditional lifestyle.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T16:13:52.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "bdc5e4a1-203a-40e1-905e-dabc7e0a05e1",
+    "Word": "Yom Kippur War",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "מלחמת יום כיפור",
+    "PartOfSpeech": "",
+    "ExampleUsage": "The Yom Kippur War in 1973 had a lasting impact on Israeli society and its relationship with neighboring Arab countries.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T15:36:03.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "e994a143-5415-4176-9fcc-e592c4aed7ab",
+    "Word": "Kibbutz",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "קיבוץ",
+    "PartOfSpeech": "",
+    "ExampleUsage": "Many Israelis choose to live in a kibbutz to experience communal living and shared responsibilities.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T15:36:03.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "391f590c-d396-4c4f-b126-f23ee68edb9b",
+    "Word": "Aliyah",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "עליה",
+    "PartOfSpeech": "",
+    "ExampleUsage": "After making aliyah, she became a citizen of Israel and embraced her Jewish heritage.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T15:36:03.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "8fdc8e88-df5a-4495-9616-2ed3ddf15d19",
+    "Word": "Mizrahi Jews",
+    "TopicName": "society-and-multiculturalism",
+    "Level": "1",
+    "Translation": "יהודים מזרחיים",
+    "PartOfSpeech": "",
+    "ExampleUsage": "Mizrahi Jews have roots in Middle Eastern and North African countries, bringing a rich cultural heritage to Israel.",
+    "createdAt": "2025-04-30T15:36:03.000Z",
+    "updatedAt": "2025-04-30T15:36:03.000Z",
+    "CreatedAt": "2025-05-01T19:21:51.280Z"
+  },
+  {
+    "WordId": "1ae9cd25-1b51-431f-a329-939bde28e7db",
+    "Word": "Bilateral summit",
+    "Translation": "פגישת שני צדדים",
+    "ExampleUsage": "The leaders of the two countries met at the bilateral summit to discuss trade agreements.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "24a8c371-1712-4b6c-9c6c-a03e6d14fb7c",
+    "Word": "הסכמת עקרון",
+    "Translation": "Principle agreement",
+    "ExampleUsage": "The principle agreement on human rights paved the way for further diplomatic talks.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "5a2bff20-1ea0-4720-93cd-d39b90e099b6",
+    "Word": "חידוש דיפלומטי",
+    "Translation": "Diplomatic innovation",
+    "ExampleUsage": "The ambassador proposed a diplomatic innovation to resolve the long-standing border dispute.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "a81015f0-0c7b-48e5-bfdf-ea936e91d888",
+    "Word": "שגריר משנה",
+    "Translation": "Deputy ambassador",
+    "ExampleUsage": "The deputy ambassador was responsible for handling sensitive diplomatic negotiations in the region.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "2dda8885-8feb-4c40-82a8-c11627d0329b",
+    "Word": "מעמד גאולוגי",
+    "Translation": "Geopolitical stance",
+    "ExampleUsage": "The country's geopolitical stance on the conflict influenced neighboring nations.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "ff6a3fac-7ff9-4963-a1bf-a0a7df6fa615",
+    "Word": "תחזית מדינית",
+    "Translation": "Diplomatic forecast",
+    "ExampleUsage": "The diplomats provided a diplomatic forecast on potential outcomes of the peace talks.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "95a2f756-35df-4fb7-b689-159646a04e18",
+    "Word": "תקשורת בינתרבותית",
+    "Translation": "Cross-cultural communication",
+    "ExampleUsage": "Effective cross-cultural communication is essential for successful diplomatic relations between nations.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:43:41.354Z"
+  },
+  {
+    "WordId": "3cbec75e-6eb4-4737-8893-3de4b94aad73",
+    "Word": "Renewable",
+    "Translation": "מתחדש",
+    "ExampleUsage": "Solar energy is a renewable source of power that doesn't harm the environment.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "ed12c0e2-5353-4fe9-8120-e435641dc2a0",
+    "Word": "Sustainable",
+    "Translation": "מַתְקַיֵים",
+    "ExampleUsage": "Using sustainable farming practices helps protect the soil for future generations.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "4692d2a1-0612-4569-9a89-e72a1549e802",
+    "Word": "Emission",
+    "Translation": "פליטה",
+    "ExampleUsage": "Reducing car emissions can help improve air quality in cities.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "e5ad50e2-065a-4356-abcc-2bcbd1590536",
+    "Word": "Conservation",
+    "Translation": "שמירה",
+    "ExampleUsage": "National parks are important for the conservation of wildlife and natural habitats.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "3a702da1-a691-43ba-be5d-651258b26d3a",
+    "Word": "Pollution",
+    "Translation": "זיהום",
+    "ExampleUsage": "Plastic pollution in the oceans poses a serious threat to marine life.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "a9e98b23-eb3d-410b-8c63-e55136cf87d0",
+    "Word": "Recycle",
+    "Translation": "ממחזור",
+    "ExampleUsage": "It's important to recycle paper, plastic, and glass to reduce waste.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "47f4b4b6-66b4-4022-a9bc-7ace94aa980e",
+    "Word": "Biodiversity",
+    "Translation": "ביודיברסיטה",
+    "ExampleUsage": "The Amazon rainforest is known for its incredible biodiversity of plant and animal species.",
+    "TopicName": "environment-and-sustainability",
+    "Level": "1",
+    "CreatedAt": "2025-05-01T19:45:09.339Z"
+  },
+  {
+    "WordId": "6fbd3332-509a-47f7-90f4-47a2b3a2e820",
+    "Word": "Bilateral negotiations",
+    "Translation": "מוּזָמְנוּת דו-צדדית",
+    "ExampleUsage": "The two countries engaged in bilateral negotiations to resolve the trade dispute.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "cd8a0c52-3c90-4260-a733-5a28e4dcabb5",
+    "Word": "Mediation",
+    "Translation": "פִּיוּס",
+    "ExampleUsage": "The UN appointed a mediator to facilitate the mediation talks between the warring factions.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "a6f5199c-18b9-4e80-923b-4ab9d8a3abc2",
+    "Word": "Strategic alliance",
+    "Translation": "בְּרִית אסטרטגית",
+    "ExampleUsage": "The countries formed a strategic alliance to counter regional security threats.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "8ac2cb43-6f5c-43da-9aab-1ab26eaa6454",
+    "Word": "Cultural diplomacy",
+    "Translation": "דיפלומטיה תרבותית",
+    "ExampleUsage": "The embassy organized a cultural diplomacy event to promote understanding between the two nations.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "35fe4b98-ba2a-45a9-ab77-3b1086b7ab45",
+    "Word": "Peacekeeping mission",
+    "Translation": "מִשִּימָה לְשָׁמִירָה עַל הַשָׁלוֹם",
+    "ExampleUsage": "The UN deployed peacekeeping forces to the conflict zone as part of a peacekeeping mission.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "ec2f1054-3dee-4e62-861e-40a74013e9d8",
+    "Word": "Neutrality",
+    "Translation": "נְיוּטְרָלִיוּת",
+    "ExampleUsage": "The country declared its neutrality in the ongoing diplomatic tensions between its neighbors.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "8f1c5908-2638-4dcc-ace1-03d827bdced2",
+    "Word": "Track II diplomacy",
+    "Translation": "דיפלומטיה של סוג ג'",
+    "ExampleUsage": "The non-governmental organization played a crucial role in track II diplomacy by facilitating dialogue between the conflicting parties.",
+    "TopicName": "diplomacy-and-international-relations",
+    "Level": "1",
+    "CreatedAt": "2025-05-02T06:37:46.643Z"
+  },
+  {
+    "WordId": "54161ee7-34e3-4612-909f-1a6955f51d86",
+    "Word": "Kibbutz",
+    "Translation": "קִיבוּץ",
+    "ExampleUsage": "In Israel, a kibbutz is a collective community where people live and work together.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "ddfdeb1d-ceb6-42e3-b0c0-3a2d82e4d218",
+    "Word": "Shalom",
+    "Translation": "שָׁלוֹם",
+    "ExampleUsage": "The traditional Hebrew greeting 'Shalom' means peace and hello.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "4e4b3677-82c4-477d-a0f1-48d80c00346d",
+    "Word": "Diaspora",
+    "Translation": "תְּפוּצוֹת",
+    "ExampleUsage": "The Jewish diaspora refers to the dispersion of Jewish people outside of Israel.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "13e4e668-10d2-4ffa-99c5-dcf44c654ca6",
+    "Word": "Intifada",
+    "Translation": "אִנְתִּיפָּדָה",
+    "ExampleUsage": "The First Intifada was a Palestinian uprising against Israeli occupation in the late 1980s.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "6f72e00e-3a39-4949-a847-44d0445ca265",
+    "Word": "Synagogue",
+    "Translation": "בֵּית כְּנֶסֶת",
+    "ExampleUsage": "Jews gather for prayer and worship at the synagogue.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "32be07aa-5c07-4011-91ce-d4e187e70d32",
+    "Word": "Bedouin",
+    "Translation": "בְּדוּאִים",
+    "ExampleUsage": "The Bedouin are nomadic Arab tribes who traditionally lived in the desert.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "0c576e0f-f7d2-452f-a30b-01decad28ffa",
+    "Word": "Zionism",
+    "Translation": "צִיּוֹנוּת",
+    "ExampleUsage": "Zionism is a movement advocating for the establishment of a Jewish homeland in Israel.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:35:33.447Z"
+  },
+  {
+    "WordId": "1ef2d777-8704-4c81-bfec-404b76efb6ed",
+    "Word": "Startup",
+    "Translation": "סטארט-אפ",
+    "ExampleUsage": "Many young entrepreneurs dream of building a successful startup.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "e21c9612-ff61-40ec-82e0-e9dba2849bbb",
+    "Word": "Innovation",
+    "Translation": "חדשנות",
+    "ExampleUsage": "Innovation is crucial for companies to stay competitive in the market.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "9b63e18c-9cc3-4b0f-9867-5792ec3b85ed",
+    "Word": "Fintech",
+    "Translation": "טכנולוגיות פיננסיות",
+    "ExampleUsage": "Fintech companies are revolutionizing the way we manage our finances.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "5eb68ebf-76cd-4087-bf47-66de81433463",
+    "Word": "Strategy",
+    "Translation": "אסטרטגיה",
+    "ExampleUsage": "Developing a solid business strategy is key to achieving long-term success.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "add276c7-fe63-4c7c-a60b-c6786d88e699",
+    "Word": "Globalization",
+    "Translation": "גלובליזציה",
+    "ExampleUsage": "Globalization has opened up new opportunities for businesses to expand internationally.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "e4ae0cae-af6b-49fd-87d0-02762ab23a46",
+    "Word": "Investment",
+    "Translation": "השקעה",
+    "ExampleUsage": "Smart investment decisions can lead to significant financial growth.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "7987e311-e501-4cb1-b903-4ab3aeb6134e",
+    "Word": "Entrepreneur",
+    "Translation": "יזם",
+    "ExampleUsage": "An entrepreneur takes risks to build and grow their own business.",
+    "TopicName": "economy-and-entrepreneurship",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:39:16.236Z"
+  },
+  {
+    "WordId": "88f80709-9579-4170-9d31-5c83199d0f51",
+    "Word": "Inheritance",
+    "Translation": "מורשת",
+    "ExampleUsage": "Family traditions are an important part of our inheritance.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:46:06.558Z"
+  },
+  {
+    "WordId": "22aedd6c-e9cc-47b4-839c-f49ab2b044eb",
+    "Word": "Revival",
+    "Translation": "חידוש",
+    "ExampleUsage": "The park underwent a revival with new playground equipment.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:46:06.558Z"
+  },
+  {
+    "WordId": "0ac91c8e-70ec-43cc-854b-48ed57d56d8d",
+    "Word": "History",
+    "Translation": "היסטוריה",
+    "ExampleUsage": "Studying history helps us learn about the past.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "7f1706c6-7199-4061-bb9a-51d822b5152c",
+    "Word": "Memory",
+    "Translation": "זיכרון",
+    "ExampleUsage": "I have a good memory and can remember things easily.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "5f6d4e89-0364-49b4-8074-b8d6630c1fb3",
+    "Word": "Mass killing",
+    "Translation": "רצח עם",
+    "ExampleUsage": "The mass killing of innocent people is a terrible crime.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "3d05d138-e695-4c81-a124-772794fb6594",
+    "Word": "New beginning",
+    "Translation": "חידוש",
+    "ExampleUsage": "Starting a new school year feels like a fresh beginning.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "f01e2a9f-c4bd-43ee-8d4d-b37bb4089073",
+    "Word": "Healing",
+    "Translation": "שיקום",
+    "ExampleUsage": "Healing after a small injury can take time.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "6e5f2a9c-eab4-4284-80e5-8449ef9bd918",
+    "Word": "Strength",
+    "Translation": "התמודדות",
+    "ExampleUsage": "Showing strength means not giving up when things are difficult.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "f024f6d3-27a7-48cc-a122-04a0dc2bfd35",
+    "Word": "Survivor",
+    "Translation": "ניצול",
+    "ExampleUsage": "The survivor of a challenge can inspire others with their story.",
+    "TopicName": "holocaust-and-revival",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:51:31.602Z"
+  },
+  {
+    "WordId": "56195a74-3de4-4ca1-920e-a8e52e9e033a",
+    "Word": "Scattered",
+    "Translation": "פזור",
+    "ExampleUsage": "The scattered Jewish people live in different countries around the world.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "67ff4fdf-da4e-4ed1-b634-1f4c3c408768",
+    "Word": "Escape",
+    "Translation": "יציאה",
+    "ExampleUsage": "The escape of the Israelites from Egypt is a famous story in Jewish history.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "02f85b11-4d78-4309-9867-5f75e0b5f028",
+    "Word": "Holy Hill",
+    "Translation": "גבעה קדושה",
+    "ExampleUsage": "The Holy Hill in Jerusalem is an important place for many religions.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "920903a9-f064-4fdc-b854-868ba38aed0e",
+    "Word": "Tragedy",
+    "Translation": "אסון",
+    "ExampleUsage": "The Holocaust was a tragic time in history when many Jewish people suffered.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "113f51e4-8cae-4dd5-8d3c-f0180df83176",
+    "Word": "Community",
+    "Translation": "קהילה",
+    "ExampleUsage": "A kibbutz is a community in Israel where people live and work together.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "5ec08b9c-be11-40c5-8bd7-1c33ee2e9b4e",
+    "Word": "Homeland Movement",
+    "Translation": "תנועת מולדת",
+    "ExampleUsage": "Zionism is a homeland movement that supports the idea of a Jewish state in Israel.",
+    "TopicName": "history-and-heritage",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T07:53:53.205Z"
+  },
+  {
+    "WordId": "7cf81edb-f77e-4854-a6fc-099b3d2f9ed3",
+    "Word": "Bilateral agreement",
+    "Translation": "הסכם דו-צדדי",
+    "ExampleUsage": "The two countries reached a bilateral agreement.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "6c9276a3-a30e-480f-bdee-c96b310ebd01",
+    "Word": "Summit diplomacy",
+    "Translation": "דיפלומטיה של פגישות שיא",
+    "ExampleUsage": "Leaders engage in summit diplomacy for peace.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "3f4c987f-ca07-4ab1-a791-73ae08df7a65",
+    "Word": "Mediation",
+    "Translation": "פיוס",
+    "ExampleUsage": "The UN played a key role in mediation.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "0446139a-f32f-48ab-bf31-c5401bdec9f8",
+    "Word": "Soft power",
+    "Translation": "כוח רך",
+    "ExampleUsage": "Cultural exchanges are part of soft power.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "33a31dfd-aef0-4b97-9df0-8401922efe31",
+    "Word": "Cultural diplomacy",
+    "Translation": "דיפלומטיה תרבותית",
+    "ExampleUsage": "Music festivals promote cultural diplomacy between nations.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "4cfc9d24-8c74-4de2-a095-52942542712f",
+    "Word": "Neutrality",
+    "Translation": "ניטרליות",
+    "ExampleUsage": "Switzerland is known for its neutrality in conflicts.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "fce0fd73-fb20-440d-afd5-69f1e8c97957",
+    "Word": "Multilateral cooperation",
+    "Translation": "שיתוף פעולה מרובע",
+    "ExampleUsage": "Multilateral cooperation is crucial for global challenges.",
+    "TopicName": "Diplomacy And International Relations",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:14.247Z"
+  },
+  {
+    "WordId": "4d9abb2c-2327-4715-b259-530b17dce8ee",
+    "Word": "Kibbutz",
+    "Translation": "קִבוּץ",
+    "ExampleUsage": "Many Israelis used to live in kibbutzim.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "990cd4ba-079e-4ae1-b924-b687ed7d2999",
+    "Word": "Diaspora",
+    "Translation": "תְּפוּצוֹת",
+    "ExampleUsage": "Jews in the diaspora maintain strong connections.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "61e46102-615b-4d34-b022-f8775505b3a1",
+    "Word": "Intifada",
+    "Translation": "אִנְתִּיפָּאָדָה",
+    "ExampleUsage": "The intifada had a significant impact.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "a17f596d-1e58-4d4b-8114-0f338cfb6bb2",
+    "Word": "Settlement",
+    "Translation": "הִתְיַישֵׁבוּת",
+    "ExampleUsage": "There are many Jewish settlements in Judea.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "7457d98f-5d1a-4bb2-8d5e-166c7aa96748",
+    "Word": "Synagogue",
+    "Translation": "בֵּית כְּנֶסֶת",
+    "ExampleUsage": "The Jewish community gathers at the synagogue.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "4f9487cd-2f16-4ba6-9c43-8ecd1c01b2bf",
+    "Word": "Olive branch",
+    "Translation": "עָנָף זַיִת",
+    "ExampleUsage": "Extending the olive branch promotes peace.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "0a706dfc-f049-415c-b794-2e773c3a95b4",
+    "Word": "Coexistence",
+    "Translation": "שִׁתְקוּמוּת מְשׁוּתֶפֶת",
+    "ExampleUsage": "The neighborhood is a model of coexistence.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T08:08:31.077Z"
+  },
+  {
+    "WordId": "ec74ccda-3577-4ae0-9006-8d31536d844e",
+    "Word": "Air strike",
+    "Translation": "פגיעת חיל האוויר",
+    "ExampleUsage": "The Israeli military carried out an air strike on a Hamas target.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "5f835bc0-bee5-4eef-868c-805ea8d167a1",
+    "Word": "Resistance",
+    "Translation": "התנגדות",
+    "ExampleUsage": "Palestinian resistance against Israeli occupation has a long history.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "d46da346-7a3e-4f3b-bf3f-25f5c3f6f374",
+    "Word": "Ceasefire",
+    "Translation": "הפסקת אש",
+    "ExampleUsage": "The ceasefire was negotiated by international mediators.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "4fb68b78-3eec-4d6e-8879-672059f3f7be",
+    "Word": "Humanitarian aid",
+    "Translation": "עזרה אנושית",
+    "ExampleUsage": "Humanitarian aid organizations provide assistance to civilians in need.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "b8ca8791-c2a8-4d25-8296-cececef19633",
+    "Word": "Diplomatic talks",
+    "Translation": "שיחות דיפלומטיות",
+    "ExampleUsage": "Diplomatic talks aim to find a peaceful resolution to the conflict.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "dd894b37-8361-4fdf-9b1b-7be58b0cc8be",
+    "Word": "Displacement",
+    "Translation": "גירוש",
+    "ExampleUsage": "Many families faced displacement due to the ongoing conflict.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "b598237d-fc21-4162-a112-539b5b6fb293",
+    "Word": "Security threat",
+    "Translation": "איום על הביטחון",
+    "ExampleUsage": "The rocket attacks posed a significant security threat.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:20:22.554Z"
+  },
+  {
+    "WordId": "f6365d17-e398-4d4a-9b7b-77ca722f26f2",
+    "Word": "Temple",
+    "Translation": "מִקְדָּשׁ",
+    "ExampleUsage": "People pray at the temple.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "f61f4566-c587-4613-bba1-d4b29e39ab9e",
+    "Word": "Communities",
+    "Translation": "קְהִלּוֹת",
+    "ExampleUsage": "Communities work together for common goals.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "01f1bd11-a413-4c6a-8e00-bc3ea2dac37a",
+    "Word": "Peace offering",
+    "Translation": "הַצָעַת שָׁלוֹם",
+    "ExampleUsage": "Extending a peace offering can resolve conflicts.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "1b40e2db-c4f6-4baf-a8e1-8bce20060491",
+    "Word": "Living together",
+    "Translation": "שְׁכוּנָה מְשׁוּתֶפֶת",
+    "ExampleUsage": "People of different backgrounds living together peacefully.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "40cf3040-f9f9-49bd-ba1d-894b975e3feb",
+    "Word": "Collective farm",
+    "Translation": "חָקְלִילִיה",
+    "ExampleUsage": "In the past, many people worked on collective farms.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "3e74be99-60cc-400a-a8c8-ad8109789987",
+    "Word": "Community",
+    "Translation": "קְהִלָּה",
+    "ExampleUsage": "The community helps each other in times of need.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "8dd5e93b-3951-4b5f-9ee1-0ab2f75f3d84",
+    "Word": "Uprising",
+    "Translation": "מַרְד",
+    "ExampleUsage": "The uprising led to changes in the region.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "intermediate",
+    "CreatedAt": "2025-05-02T08:21:21.275Z"
+  },
+  {
+    "WordId": "f07c9dbc-39a6-4b0a-be29-0529b5062eae",
+    "Word": "Peace offering",
+    "Translation": "הַצָעַת שָׁלוֹם",
+    "ExampleUsage": "Extending a peace offering can resolve conflicts.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "83a39cb8-dbc3-4c77-b2d7-6b2465f438ba",
+    "Word": "Synagogue",
+    "Translation": "בֵּית כְּנֶסֶת",
+    "ExampleUsage": "The Jewish community gathers at the synagogue.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "4f7f9b57-f55a-4352-a260-772ccf45b6a9",
+    "Word": "Collective farm",
+    "Translation": "חָקְלִילִיה",
+    "ExampleUsage": "In the past, many people worked on collective farms.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "f35d09de-33c5-45e0-814f-3c418add5169",
+    "Word": "Communities",
+    "Translation": "קְהִלּוֹת",
+    "ExampleUsage": "Communities work together for common goals.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "48a41a35-fd21-47e7-a1ea-7719141a8f09",
+    "Word": "Settlement",
+    "Translation": "הִתְיַישֵׁבוּת",
+    "ExampleUsage": "There are many Jewish settlements in Judea.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "8a2cf9b9-17eb-4426-9c7f-b4ac87b6d133",
+    "Word": "Temple",
+    "Translation": "מִקְדָּשׁ",
+    "ExampleUsage": "People pray at the temple.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "615d3366-8e95-4615-ac6f-1a2f5469ce18",
+    "Word": "Community",
+    "Translation": "קְהִלָּה",
+    "ExampleUsage": "The community helps each other in times of need.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "2496673b-4601-4491-b8c0-b08df34e494b",
+    "Word": "Coexistence",
+    "Translation": "שִׁתְקוּמוּת מְשׁוּתֶפֶת",
+    "ExampleUsage": "The neighborhood is a model of coexistence.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "7a1792fe-b44a-4faf-ab86-1f2c09433e02",
+    "Word": "Uprising",
+    "Translation": "מַרְד",
+    "ExampleUsage": "The uprising led to changes in the region.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "35620176-364e-4b8a-83dd-5e73e166b1c1",
+    "Word": "Olive branch",
+    "Translation": "עָנָף זַיִת",
+    "ExampleUsage": "Extending the olive branch promotes peace.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "92ce6a3c-b914-4edf-92fd-c05dc8fe4505",
+    "Word": "Living together",
+    "Translation": "שְׁכוּנָה מְשׁוּתֶפֶת",
+    "ExampleUsage": "People of different backgrounds living together peacefully.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T08:50:44.936Z"
+  },
+  {
+    "WordId": "700c19bb-ed92-41eb-b96c-7adee6f26f7d",
+    "Word": "Shoah",
+    "Translation": "שואה",
+    "ExampleUsage": "The Shoah is a crucial part of Jewish history.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "64381a8c-00eb-4a88-96d8-f9db173aa7bf",
+    "Word": "Chutzpah",
+    "Translation": "חוצפה",
+    "ExampleUsage": "Jewish resilience is often described as chutzpah.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "c9c35d3d-d13b-4b1f-b008-7a9678593913",
+    "Word": "Rehabilitation",
+    "Translation": "שיקום",
+    "ExampleUsage": "Post-traumatic recovery is a challenging process.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "1e148c37-2989-4e9f-b7c8-b62f9db3b18b",
+    "Word": "Folklore",
+    "Translation": "אגדות עם",
+    "ExampleUsage": "Cultural preservation includes passing down folklore stories.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "2c71d782-01db-4aeb-9ac7-98ef8718ac01",
+    "Word": "Renewal",
+    "Translation": "חידוש",
+    "ExampleUsage": "Rebirth and hope are central themes in Judaism.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "01fa10c0-62dc-42df-910b-97fd12b14b19",
+    "Word": "Heritage",
+    "Translation": "מורשת",
+    "ExampleUsage": "It's essential to protect our cultural heritage.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "3d2dd2b9-4121-4edf-85b7-7a559d9ee35d",
+    "Word": "Resilience",
+    "Translation": "גמישות",
+    "ExampleUsage": "Jewish people have shown great resilience throughout history.",
+    "TopicName": "Holocaust And Revival",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:13:19.996Z"
+  },
+  {
+    "WordId": "942adfbc-578c-4882-ad5a-1a1bc793270c",
+    "Word": "Truce",
+    "Translation": "הפסקת אש",
+    "ExampleUsage": "The truce halted the fighting between the two sides.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "e22b6aba-a899-4737-a7a7-b27a98f51741",
+    "Word": "Aid",
+    "Translation": "עזרה אנושית",
+    "ExampleUsage": "Aid organizations offer help to those in need.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "a3c5f329-6997-47a4-9435-141c8799d1b6",
+    "Word": "Forced removal",
+    "Translation": "עקירה, עקירה מבית, עקירה כפויה",
+    "ExampleUsage": "Many families experienced forced removal from their homes.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "f6a83a68-f8b1-4549-b44f-5b751c88f871",
+    "Word": "Threat to safety",
+    "Translation": "איום על הביטחון",
+    "ExampleUsage": "The attacks posed a serious threat to safety.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "99dd8693-1554-4850-9045-63dc3ef9e77d",
+    "Word": "Airstrike",
+    "Translation": "פגיעת חיל האוויר",
+    "ExampleUsage": "The military conducted an airstrike on the enemy's position.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "a5d7d006-8bd1-4611-8a77-09aa12f0babc",
+    "Word": "Negotiations",
+    "Translation": "שיחות דיפלומטיות",
+    "ExampleUsage": "Negotiations aim to resolve the conflict peacefully.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "40bb7397-6208-4b6e-9ba0-5e4f10ab65ca",
+    "Word": "Opposition",
+    "Translation": "התנגדות",
+    "ExampleUsage": "The opposition to the government's decision was strong.",
+    "TopicName": "Iron Swords War",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T09:28:38.027Z"
+  },
+  {
+    "WordId": "3751601f-9e34-4e95-8d3f-9de68c7cc986",
+    "Word": "Diaspora",
+    "Translation": "גולה",
+    "ExampleUsage": "The Jewish diaspora has spread across the world.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "381dab0e-23e6-46d9-9edc-fd5223c84a3d",
+    "Word": "Kibbutz",
+    "Translation": "קיבוץ",
+    "ExampleUsage": "Living in a kibbutz promotes communal values.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "62421786-0b97-41de-80be-1aadff45baa6",
+    "Word": "Intifada",
+    "Translation": "אינתיפאדה",
+    "ExampleUsage": "The Intifada marked a significant period of unrest.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "b4df84ed-5351-4c1a-967a-c8a3c2a6e463",
+    "Word": "Settlements",
+    "Translation": "התנחלויות",
+    "ExampleUsage": "The issue of settlements remains highly contentious.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "9621332f-703c-48eb-aa4e-f61e70f02323",
+    "Word": "Aliyah",
+    "Translation": "עלייה",
+    "ExampleUsage": "Many Jews made Aliyah to Israel from Europe.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "f69be562-3457-4c8d-b75e-62b1a6aa44e3",
+    "Word": "Zionism",
+    "Translation": "ציונות",
+    "ExampleUsage": "Zionism played a key role in Israel's establishment.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "3da7383f-e723-4bbf-b6aa-ce17b957c207",
+    "Word": "Sephardic",
+    "Translation": "ספרדי",
+    "ExampleUsage": "The Sephardic Jewish community has rich traditions.",
+    "TopicName": "society-and-multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:23:51.721Z"
+  },
+  {
+    "WordId": "f8e0705b-063a-4d12-9050-59da69c7f169",
+    "Word": "Biodiversity",
+    "Translation": "ביודיברסיטה",
+    "ExampleUsage": "Protecting biodiversity is crucial for ecosystem health.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "8e1f1b26-38cc-49f4-98a0-431665e6549f",
+    "Word": "Carbon footprint",
+    "Translation": "גלגל פחמן",
+    "ExampleUsage": "Reducing your carbon footprint helps fight climate change.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "8d06ad1f-e52a-41fd-b1a5-fa7268c9939c",
+    "Word": "Sustainable development",
+    "Translation": "פיתוח דיורי",
+    "ExampleUsage": "Countries aim to achieve economic growth through sustainable development.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "f159d58a-f38a-4502-b9f0-48fc9ae6fef4",
+    "Word": "Renewable energy",
+    "Translation": "אנרגיה מתחדשת",
+    "ExampleUsage": "Solar and wind power are forms of renewable energy.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "98c52752-b8d2-4142-bd14-026ca7d70dec",
+    "Word": "Ecological footprint",
+    "Translation": "גלגל אקולוגי",
+    "ExampleUsage": "Calculating your ecological footprint raises awareness about resource consumption.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "9cb2c542-5812-4294-9171-29b96b1eaf85",
+    "Word": "Circular economy",
+    "Translation": "כלכלה מעגלית",
+    "ExampleUsage": "In a circular economy, products are recycled and reused to minimize waste.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "eb122a9f-1148-41a5-bfd1-e2e6ee9ef954",
+    "Word": "Climate resilience",
+    "Translation": "עמידות אקלימית",
+    "ExampleUsage": "Building climate resilience is essential in the face of increasing natural disasters.",
+    "TopicName": "Environment And Sustainability",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:27:17.583Z"
+  },
+  {
+    "WordId": "662e6407-7281-47e3-bd0f-d6ffa4aa1798",
+    "Word": "Kibbutz",
+    "Translation": "קִבוּץ",
+    "ExampleUsage": "Kibbutzim were integral to the formation of Israeli society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "354c51b2-1aa5-481c-bbef-d80605e0f91f",
+    "Word": "Diaspora",
+    "Translation": "גָלוּת",
+    "ExampleUsage": "The Jewish diaspora has a rich cultural heritage.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "3f186b5f-a0ea-4a48-9a26-e4c60bbb6175",
+    "Word": "Intifada",
+    "Translation": "אִנְטִיפָאָדָה",
+    "ExampleUsage": "The First Intifada marked a shift in Israeli-Palestinian relations.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "524af961-318e-44ae-8194-0739911ff6d1",
+    "Word": "Mizrahi",
+    "Translation": "מִזְרָחִי",
+    "ExampleUsage": "Mizrahi Jews have contributed significantly to Israeli society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "01e2df21-5f34-4086-ba87-7592df9e2c89",
+    "Word": "Zionism",
+    "Translation": "צִיּוֹנוּת",
+    "ExampleUsage": "Zionism played a key role in Jewish society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "7912bb8c-61a1-41bd-a696-168c54abb9e8",
+    "Word": "Nakba",
+    "Translation": "נַקְבָּה",
+    "ExampleUsage": "The Nakba is a pivotal event in Israeli-Arab relations.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "84c6397a-e325-4d89-a3e4-34317cbd7410",
+    "Word": "Aliyah",
+    "Translation": "עֲלִיָּה",
+    "ExampleUsage": "Many Jews from around the world make aliyah to Israel.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "advanced",
+    "CreatedAt": "2025-05-02T10:30:46.516Z"
+  },
+  {
+    "WordId": "a91f7aef-1179-44ba-90d3-66e0baf1f728",
+    "Word": "Belief in Israel",
+    "Translation": "צִיּוֹנוּת",
+    "ExampleUsage": "Belief in Israel was important for Jewish society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:32:43.191Z"
+  },
+  {
+    "WordId": "348d3690-faa3-4127-a883-0052f95c8331",
+    "Word": "Immigration to Israel",
+    "Translation": "עֲלִיָּה",
+    "ExampleUsage": "Many Jews move to Israel.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:32:43.191Z"
+  },
+  {
+    "WordId": "a6fe2ead-e383-4a48-b983-b2a4cebe634f",
+    "Word": "Communal farm",
+    "Translation": "קִבוּץ",
+    "ExampleUsage": "Communal farms were important in building Israeli society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:53:05.129Z"
+  },
+  {
+    "WordId": "8d8b8c97-c5bc-4322-aef1-7e12c6035f01",
+    "Word": "Support for Israel",
+    "Translation": "צִיּוֹנוּת",
+    "ExampleUsage": "Support for Israel was important to Jewish society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:53:05.129Z"
+  },
+  {
+    "WordId": "8436a51f-7530-47a3-9f97-8629864a2e48",
+    "Word": "Catastrophe",
+    "Translation": "נַקְבָּה",
+    "ExampleUsage": "The Catastrophe is an important event in history.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "e9ce7093-0c7d-49bd-9bc4-1a7ed8eb5d9c",
+    "Word": "Eastern",
+    "Translation": "מִזְרָחִי",
+    "ExampleUsage": "Eastern Jews have played a big role in society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "1aaff17f-d4f1-4dea-943d-caad71283796",
+    "Word": "Scattered community",
+    "Translation": "גָלוּת",
+    "ExampleUsage": "The scattered community has diverse traditions.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "33cfc9e7-caa5-43d6-bd9f-7bf0897b3791",
+    "Word": "Uprising",
+    "Translation": "אִנְטִיפָאָדָה",
+    "ExampleUsage": "The Uprising changed relationships between people.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "1d41aa4d-f494-4f21-ad2e-8fc8402d39c2",
+    "Word": "Immigration",
+    "Translation": "עֲלִיָּה",
+    "ExampleUsage": "Many people move to Israel through immigration.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "29c28c8e-b69e-464a-88f1-db35b86addd9",
+    "Word": "Collective community",
+    "Translation": "קִבוּץ",
+    "ExampleUsage": "Collective communities helped build society.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  },
+  {
+    "WordId": "66b80e9c-2733-4ab2-8fd7-b25c9e426926",
+    "Word": "Belief in Jewish homeland",
+    "Translation": "צִיּוֹנוּת",
+    "ExampleUsage": "Belief in a Jewish homeland is important to many.",
+    "TopicName": "Society And Multiculturalism",
+    "EnglishLevel": "beginner",
+    "CreatedAt": "2025-05-02T10:54:03.290Z"
+  }
+]
