@@ -6,7 +6,9 @@
     "dev:web": "cd apps/web && npm run dev",
     "dev:api": "cd apps/api && npm run dev",
     "build": "turbo build",
-    "start": "turbo start"
+    "start": "turbo start",
+    "deploy": "node deploy.js",
+    "azure:start": "node apps/api/dist/server.js"
   },
   "devDependencies": {
     "@types/jsonwebtoken": "^9.0.9",
