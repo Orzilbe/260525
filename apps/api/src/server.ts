@@ -20,6 +20,7 @@ import { connectToDatabase } from './lib/db';
 // Load environment variables
 dotenv.config();
 
+const HOST = process.env.HOST || '0.0.0.0';
 const PORT = process.env.PORT || 3001;
 
 // Middleware
@@ -38,6 +39,16 @@ app.use('/api/topics', topicsRoutes);
 app.use('/api/user', userRoutes);
 app.use('/api/diagnostics', diagnosticRoutes);
 app.use('/api/tasks', taskRoutes); // הוספת הנתיב החדש
+
+// Root route - Essential for Azure App Service
+app.get('/', (req, res) => {
+  res.json({ 
+    message: 'UnityVoice API Server is running',
+    status: 'OK',
+    timestamp: new Date().toISOString(),
+    version: '1.0.0'
+  });
+});
 
 // Enhanced health check with basic database status
 app.get('/health', async (req, res) => {
@@ -69,8 +80,10 @@ app.use(errorHandler);
 
 // Initialize database and start server
 initializeDatabase().then(() => {
-  app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+  app.listen(parseInt(PORT as string), HOST, () => {
+      console.log(`Server is running on ${HOST}:${PORT}`);
+      console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
+      console.log(`Process ID: ${process.pid}`);
   });
 }).catch(error => {
   console.error('Failed to initialize database:', error);
